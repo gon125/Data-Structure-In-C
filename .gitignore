@@ -1,0 +1,7 @@
+source/stack/stack.sln
+source/stack/infix_to_postfix/infix_to_postfix.vcxproj.user
+source/stack/infix_to_postfix/infix_to_postfix.vcxproj.filters
+source/stack/infix_to_postfix/infix_to_postfix.vcxproj
+source/stack/.vs/stack/v15/ipch/AutoPCH/8d7f8c0a136cbb70/INFIX_TO_POSTFIX.ipch
+source/stack/.vs/stack/v15/Browse.VC.opendb
+source/stack/.vs/stack/v15/Browse.VC.db
