@@ -1,7 +1,7 @@
 # Data-Structure-In-C
 Study of Data Structure in C
 
-`gon125` 'Hyunsu'
+`gon125` `Hyunsu`
 
 [![Logo](/logo.png)](https://github.com/gon125/Data-Structure-In-C/)
 
