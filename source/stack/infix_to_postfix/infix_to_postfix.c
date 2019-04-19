@@ -6,5 +6,5 @@
 
 void main()
 {
-	printf("a");
+	printf("aa");
 }
