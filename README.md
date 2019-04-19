@@ -18,7 +18,7 @@ Study of Data Structure in C
 
 ### Infix to Postfix
 
-<br>[⬆ Back to top](# table-of-contents)
+<br>[⬆ Back to top](#Table-of-contents)
 
 ## Credits
 
