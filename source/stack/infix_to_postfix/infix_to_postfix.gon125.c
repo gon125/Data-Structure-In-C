@@ -143,6 +143,7 @@ char* infixToPostfix(char* infix) {
 			//You have to push a token to Stack anyway. So just put it at the bottom.
 			//If the top of Stack is bigger than or the same as a token,
 			//We will pop and enqueue it until it gets smaller.
+			//Because Stack shoud keep elements in descending order from the top.
 			while (isp[s->top->data] >= icp[token]) {
 				enqueue(q, precedenceToChar(pop(s)->data));
 			}
