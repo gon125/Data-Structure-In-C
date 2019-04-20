@@ -1,7 +1,7 @@
-source/*.sln
-source/*.user
-source/*.filters
-source/*.vcxproj
-source/*.ipch
-source/*.opendb
-source/*.db
+*.sln
+*.user
+*.filters
+*.vcxproj
+*.ipch
+*.opendb
+*.db
