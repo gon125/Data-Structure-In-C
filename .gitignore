@@ -5,3 +5,4 @@
 *.ipch
 *.opendb
 *.db
+*.DS_Store
