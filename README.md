@@ -42,7 +42,7 @@ Study of Data Structure in C
 <br>[⬆ Back to top](#Table-of-contents)
 
 ### Equivalence Class
-[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/infix_to_postfix)
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/linked-list/equivalence-class)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
