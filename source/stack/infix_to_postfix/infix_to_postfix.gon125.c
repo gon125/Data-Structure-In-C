@@ -67,6 +67,7 @@ qNode* dequeue(queue* q) {
 	}
 	deleted = q->front;
 	q->front = q->front->link;
+	if (q->front == NULL) q->rear = NULL;
 	return deleted;
 }
 
