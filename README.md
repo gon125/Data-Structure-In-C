@@ -25,6 +25,8 @@ Study of Data Structure in C
 
 </details>
 
+## Contents
+
 ### Infix to Postfix
 [`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/infix_to_postfix)
 
