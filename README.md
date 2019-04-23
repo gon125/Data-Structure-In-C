@@ -17,6 +17,9 @@ Study of Data Structure in C
 </details>
 
 ### Infix to Postfix
+중위연산자 표기법을 입력받아 후위연산자 표기법으로 바꾸는 것이 목표이다. 이 문제의 핵심은 후위연산자 표기법에는 괄호가 없고, 기본적으로 우선순위가 높은
+연산자가 낮은 연산자보다 앞으로 온다는 것이다. 
+['Implementation'](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/infix_to_postfix)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
