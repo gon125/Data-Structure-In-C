@@ -6,3 +6,12 @@
 *.opendb
 *.db
 *.DS_Store
+*.suo
+*.log
+*.obj
+*.idb
+*.pdb
+*.lastbuildstate
+*.tlog
+*.exe
+*.ilk
