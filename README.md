@@ -38,7 +38,7 @@ Study of Data Structure in C
 ## Contents
 
 ### Stack-Array
-[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/infix_to_postfix)
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
 
 ### Infix to Postfix
 [`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/infix_to_postfix)
