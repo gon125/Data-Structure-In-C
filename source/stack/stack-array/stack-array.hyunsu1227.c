@@ -12,6 +12,11 @@ typedef struct {
 element stack[MAX_STACK_SIZE];
 int top = -1;
 
+void push(element item);
+void stack_full();
+element pop();
+void stack_empty();
+
 void main()
 {
 	
