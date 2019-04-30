@@ -13,7 +13,7 @@ Study of Data Structure in C
 <summary>View contents</summary>
 
 * [`Stack-Array`](#stack-array)
-** [`Infix to Postfix`](#infix-to-postfix)
+* [`Infix to Postfix`](#infix-to-postfix)
 
 </details>
 
