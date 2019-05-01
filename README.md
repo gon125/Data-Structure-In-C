@@ -19,6 +19,15 @@ Study of Data Structure in C
 
 </details>
 
+### Queue
+
+<details>
+<summary>View contents</summary>
+
+* [`Queue-Array-Shifting`](#queue-array-shifting)
+
+</details>
+
 ### Linked-list
 
 <details>
@@ -51,6 +60,11 @@ Study of Data Structure in C
 
 ### Stack-Linked-List
 [`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-linked-list)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+### Queue-Array-Shifting
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/queue/queue-array)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
