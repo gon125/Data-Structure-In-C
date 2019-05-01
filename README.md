@@ -45,12 +45,12 @@ Study of Data Structure in C
 <br>[⬆ Back to top](#Table-of-contents)
 
 ### Stack-Array-Dynamic
-[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array-dynamic)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
 ### Stack-Linked-List
-[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-linked-list)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
