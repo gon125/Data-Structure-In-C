@@ -1,7 +1,7 @@
 # Data-Structure-In-C
 Study of Data Structure in C
 
-[`gon125`](https://github.com/gon125) [`Hyunsu1227`](https://github.com/Hyunsu1227)
+[`gon125`](https://github.com/gon125) [`Hyunsu1227`](https://github.com/Hyunsu1227) [`ohaeori`](https://github.com/ohaeori)
 
 [![Logo](/logo.png)](https://github.com/gon125/Data-Structure-In-C/)
 
