@@ -13,6 +13,8 @@ Study of Data Structure in C
 <summary>View contents</summary>
 
 * [`Stack-Array`](#stack-array)
+* [`Stack-Array-Dynamic`](#stack-array-dynamic)
+* [`Stack-Linked-List`](#stack-linked-list)
 * [`Infix to Postfix`](#infix-to-postfix)
 
 </details>
@@ -38,6 +40,16 @@ Study of Data Structure in C
 ## Contents
 
 ### Stack-Array
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+### Stack-Array-Dynamic
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+### Stack-Linked-List
 [`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/stack/stack-array)
 
 <br>[⬆ Back to top](#Table-of-contents)
