@@ -12,9 +12,7 @@ stackPointer top;
 void push(int a) {
 	stackPointer temp;
 	MALLOC(temp, sizeof(*temp));
-	temp->data = a;
-	if (top)temp->link = top;
-	else temp->link = NULL;
+	temp->data = a;	temp->link = top;
 	top = temp;
 }
 int emptyStack() {
