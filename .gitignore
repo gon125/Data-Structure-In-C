@@ -15,3 +15,5 @@
 *.tlog
 *.exe
 *.ilk
+*.db-shm
+*.db-wal
