@@ -46,6 +46,17 @@ Study of Data Structure in C
 
 </details>
 
+### Graph
+
+<details>
+<summary>View contents</summary>
+
+* [`Adjacency-list`](#adjacency-list)
+* [`bfs`](#bfs)
+* [`dfs`](#dfs)
+
+</details>
+
 ## Contents
 
 ### Stack-Array
@@ -80,6 +91,24 @@ Study of Data Structure in C
 
 ### Tree traversal
 [`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/tree/binary-tree-traversal)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+
+### Adjacency-list
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/graph/adjacency-list)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+
+### bfs
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/graph/bfs)
+
+<br>[⬆ Back to top](#Table-of-contents)
+
+
+### dfs
+[`Implementations`](https://github.com/gon125/Data-Structure-In-C/tree/master/source/graph/dfs)
 
 <br>[⬆ Back to top](#Table-of-contents)
 
